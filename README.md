@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on any project where I can add value.
 - 📫 How to reach me: paradianaa2@gmail.com
-- ⚡ Fun fact: I have a BSc in Nutrition
+- ⚡ Fun fact: I´m a crazy lady how loves to learn and discover new things.

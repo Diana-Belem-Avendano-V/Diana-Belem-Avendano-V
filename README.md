@@ -8,5 +8,10 @@
 - Typescript
 - Git
 
+  ### Mi Actividad reciente en GitHub
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## Contact me
 - 📫 How to reach me: paradianaa2@gmail.com or https://www.linkedin.com/in/dianabelem

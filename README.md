@@ -9,9 +9,9 @@
 - Git
 
   ### Mi Actividad reciente en GitHub
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 ## Contact me
 - 📫 How to reach me: paradianaa2@gmail.com or https://www.linkedin.com/in/dianabelem

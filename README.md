@@ -10,11 +10,11 @@
 
   ### Mi Actividad reciente en GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V)<br>
-2. ⬆️ Pushed undefined commit(s) to [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V)<br>
-3. ⬆️ Pushed undefined commit(s) to [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V)<br>
-4. ⬆️ Pushed undefined commit(s) to [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
-5. ⬆️ Pushed undefined commit(s) to [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
+1. 📖 Created new wiki page [Technical-Support-Documentation](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io/wiki/Technical-Support-Documentation) in [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
+2. 📖 Created new wiki page [_Sidebar](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io/wiki/_Sidebar) in [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
+3. 📖 Created new wiki page [Home](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io/wiki/Home) in [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
+4. 📖 Created new wiki page [New-Session-Tab](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io/wiki/New-Session-Tab) in [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
+5. 📖 Created new wiki page [Technical-Support-Documentation](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io/wiki/Technical-Support-Documentation) in [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contact me

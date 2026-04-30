@@ -10,11 +10,6 @@
 
   ### Mi Actividad reciente en GitHub
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Technical-Support-Documentation](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io/wiki/Technical-Support-Documentation) in [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
-2. 📖 Created new wiki page [New-Session-Tab](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io/wiki/New-Session-Tab) in [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
-3. 📖 Created new wiki page [Intent-Tab](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io/wiki/Intent-Tab) in [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
-4. 📖 Created new wiki page [Conctacs-Tab](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io/wiki/Conctacs-Tab) in [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
-5. 📖 Created new wiki page [Voicemail-Tab](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io/wiki/Voicemail-Tab) in [Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io](https://github.com/Diana-Belem-Avendano-V/Diana-Belem-Avendano-V.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contact me

@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-- 👋 Hi, I’m becoming a full stack engineer with automation background.
+- 👋 Hi, I’m a full stack engineer with automation background.
 - 💞️ I’m looking to collaborate on any project where I can add value and impact for a better world.
 - ⚡ Fun fact: I´m a crazy lady who loves to learn and discover new things.
 
